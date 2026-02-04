@@ -1,4 +1,4 @@
-# virusrpi
+# Noa Santo
 
 [![Anurag's GitHub stats](https://github-readme-stats-rose-two-55.vercel.app/api?username=virus-rpi&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
