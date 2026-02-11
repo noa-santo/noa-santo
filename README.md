@@ -1,12 +1,12 @@
 # Noa Santo
 
-[![Anurag's GitHub stats](https://github-readme-stats-rose-two-55.vercel.app/api?username=virus-rpi&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-rose-two-55.vercel.app/api?username=noa-santo&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats-rose-two-55.vercel.app/api/top-langs/?username=virus-rpi&show_icons=true&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-rose-two-55.vercel.app/api/top-langs/?username=noa-santo&show_icons=true&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats-rose-two-55.vercel.app/api/wakatime/?username=virusrpi&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=virus-rpi&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=noa-santo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 Wakatime stats are not really accurate because I don't always have it running. 
 
